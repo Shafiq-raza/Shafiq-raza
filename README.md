@@ -3,7 +3,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=3BA9FF&width=435&lines=Metallurgy+Engineer;Python+for+Materials+Analysis;Corrosion+Science+Enthusiast;Microstructure+Analysis+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=3BA9FF&width=435&lines=Metallurgy+Engineer;Testing+and+simulation;Finite+Element+Analysis+Learner;Corrosion+Science+Enthusiast;Microstructure+Analysis+Learner)](https://git.io/typing-svg)
 
 ---
 
