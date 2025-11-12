@@ -7,13 +7,17 @@
 
 ---
 
-## 🔬 About Me  
-- 🎓 **B.Tech in Metallurgical Engineering**, Government Engineering College, Gandhinagar (2021–2025)  
-- 🧠 Passionate about **Corrosion Science, Material Behavior, and Microstructure Analysis**  
-- 💻 Exploring how **Python and Data Science** can be applied to **materials research and testing**  
-- 🧪 Hands-on experience with **tensile, hardness, impact, and spectrography testing**  
-- 🔍 Interested in **materials data visualization** and **failure analysis automation**  
-- ⚙️ Currently learning **Machine Learning for Metallurgical & Material Science**  
+<div align="left">
+
+🎓 **B.Tech in Metallurgical Engineering**, Government Engineering College, Gandhinagar (2021–2025)  
+🧠 Passionate about **Corrosion Science**, **Material Behavior**, and **Failure Analysis**  
+💻 Exploring **Finite Element Analysis (FEA)** and **simulation techniques** using **ANSYS** and **SolidWorks**  
+🧪 Hands-on experience with **tensile**, **hardness**, **impact**, **bend**, and **spectrography** testing  
+⚙️ Interested in **microstructure analysis**, **heat treatment simulation**, and **mechanical behavior prediction**  
+🔍 Enthusiastic about integrating **computational simulation** with **experimental materials testing**
+
+</div>
+ 
 
 ---
 
